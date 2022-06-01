@@ -1,8 +1,0 @@
-Age|Char
-city|Char
-contry|Char
-from|INTEGER
-ID|INTEGER
-lastname|Char
-name|Char
-to|INTEGER
